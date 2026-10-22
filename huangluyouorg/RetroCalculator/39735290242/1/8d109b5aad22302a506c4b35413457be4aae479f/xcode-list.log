@@ -1,0 +1,14 @@
+Command line invocation:
+    /Applications/Xcode_26.3.app/Contents/Developer/usr/bin/xcodebuild -list -workspace /Users/runner/work/RetroCalculator/RetroCalculator/RetroCalculator.xcworkspace
+
+Information about workspace "RetroCalculator":
+    Schemes:
+        Pods-RetroCalculator
+        Pods-RetroCalculator_Test
+        RetroCalculator
+        RetroCalculator_Test
+        SubscriptionKit
+        UMAPM
+        UMCommon
+        UMDevice
+

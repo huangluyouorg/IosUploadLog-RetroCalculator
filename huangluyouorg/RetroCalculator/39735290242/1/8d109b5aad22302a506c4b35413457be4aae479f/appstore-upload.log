@@ -1,0 +1,30 @@
+Running altool at path '/Applications/Xcode_26.3.app/Contents/SharedFrameworks/ContentDelivery.framework/Resources/altool'...
+
+2026-10-22 06:40:53.510 ERROR: [ContentDelivery.Uploader.104C32E50] The provided entity includes an attribute with a value that has already been used (-19232) The bundle version must be higher than the previously uploaded version: ‘1’. (ID: 1c758267-e360-4cf2-9d39-aa0d93464cd8)
+   NSUnderlyingError : The provided entity includes an attribute with a value that has already been used (-19241) The bundle version must be higher than the previously uploaded version.
+      status : 409
+      detail : The bundle version must be higher than the previously uploaded version.
+      source : 
+         pointer : /data/attributes/cfBundleVersion
+      id : 1c758267-e360-4cf2-9d39-aa0d93464cd8
+      code : ENTITY_ERROR.ATTRIBUTE.INVALID.DUPLICATE
+      title : The provided entity includes an attribute with a value that has already been used
+      meta : 
+         previousBundleVersion : 1
+   previousBundleVersion : 1
+   iris-code : ENTITY_ERROR.ATTRIBUTE.INVALID.DUPLICATE
+2026-10-22 06:40:53.512 ERROR: [altool.104C32E50] Failed to upload package.
+2026-10-22 06:40:53.513 ERROR: [altool.104C32E50] The provided entity includes an attribute with a value that has already been used (-19232) The bundle version must be higher than the previously uploaded version: ‘1’. (ID: 1c758267-e360-4cf2-9d39-aa0d93464cd8)
+   NSUnderlyingError : The provided entity includes an attribute with a value that has already been used (-19241) The bundle version must be higher than the previously uploaded version.
+      status : 409
+      detail : The bundle version must be higher than the previously uploaded version.
+      source : 
+         pointer : /data/attributes/cfBundleVersion
+      id : 1c758267-e360-4cf2-9d39-aa0d93464cd8
+      code : ENTITY_ERROR.ATTRIBUTE.INVALID.DUPLICATE
+      title : The provided entity includes an attribute with a value that has already been used
+      meta : 
+         previousBundleVersion : 1
+   previousBundleVersion : 1
+   iris-code : ENTITY_ERROR.ATTRIBUTE.INVALID.DUPLICATE
+Failed to upload archive at 'RetroCalculator.ipa/RetroCalculator.ipa'.
