@@ -1,0 +1,4 @@
+2026-10-22 06:43:02.860 xcodebuild[3374:14559] [MT] IDEDistribution: -[IDEDistributionLogging _createLoggingBundleAtPath:]: Created bundle at path "/var/folders/n6/hn37q6pj7sj_9dmqqc2113800000gn/T/RetroCalculator_2026-10-22_06-43-02.859.xcdistributionlogs".
+Exported RetroCalculator to: /Users/runner/work/RetroCalculator/RetroCalculator/RetroCalculator.ipa
+** EXPORT SUCCEEDED **
+
